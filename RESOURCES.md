@@ -20,6 +20,7 @@
 - [SQL Teaching](https://www.sqlteaching.com/) — interactive SQL tutorial
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/) — practical SQL lessons
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) — comprehensive tutorial site
+- [PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba) — community-driven learning path
 
 ## Tools
 

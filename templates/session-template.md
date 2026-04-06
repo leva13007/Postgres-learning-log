@@ -1,42 +1,61 @@
 <!-- Filename: YYYY-MM-DD.md -->
-# Session: [Topic Name]
+# [Descriptive Article-Style Title]
 
-> **Date:** YYYY-MM-DD
-> **Session #:** N
-> **Duration:** Xh Ym
-> **Topic:** [Topic]
+> **Date:** YYYY-MM-DD | **Session #:** N | **Duration:** Xh Ym
+> **Roadmap:** Phase N → [Topic]
 
-## Goal
+<!-- 1-2 sentences: what we're doing and why -->
 
-<!-- What do you want to learn/achieve in this session? -->
+## Prerequisites
 
-## Key Concepts
-
-<!-- List the main concepts covered. Keep it concise. -->
+<!-- What's needed before starting (tools, setup, prior knowledge) -->
 
 -
 
-## Practice
+## Key Concepts
 
-<!-- SQL snippets and commands you worked with -->
+<!-- Core terms and ideas for this session -->
+
+- **Term** — definition
+
+## Steps
+
+<!-- 
+  Linear flow — each step is a ## heading with code + explanation.
+  Use margin notes for deeper context:
+  
+  > 📝 Why we do it this way (пояснення)
+  > 💡 Deeper insight, non-obvious detail
+  > ⚠️ Gotcha, pitfall, don't forget
+-->
+
+## 1. [Step Title]
+
+<!-- Code block + explanation -->
 
 ```sql
 
 ```
 
-## Challenges
+> 📝 ...
 
-<!-- What was difficult? What confused you? -->
+## 2. [Step Title]
+
+```bash
+
+```
+
+---
+
+## Summary
+
+<!-- Key takeaways — what to remember -->
 
 -
 
-## Takeaways
+## What's Next
 
-<!-- What did you actually learn? Key insights. -->
-
--
-
-## Next Steps
+- [ ] 
 
 <!-- What to study next based on this session -->
 

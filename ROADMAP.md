@@ -18,7 +18,8 @@
 
 ## Phase 1: Getting Started
 - ✅ Project setup & documentation scaffold → [session 1](sessions/2026-04-05.md)
-- ⬜ Installation — Docker on macOS, docker-compose setup, PostgreSQL 18 container
+- ✅ Installation — Docker on macOS, docker-compose setup, PostgreSQL 18 container → [session 2](sessions/2026-04-06.md)
+- ⬜ Setup scripts — setup.sh, stop.sh, reset.sh (automated environment management)
 - ⬜ GUI client — DBeaver installation & connection setup
 - ⬜ Architectural fundamentals — client/server model, how PostgreSQL works
 - ⬜ Creating a database — via docker exec, via psql, via DBeaver

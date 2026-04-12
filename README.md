@@ -47,6 +47,8 @@ docker compose exec db psql -U postgres
 |------|-------|--------|
 | [2026-04-05](sessions/2026-04-05.md) | Project Setup & Documentation Foundation | ✅ |
 | [2026-04-06](sessions/2026-04-06.md) | Installing PostgreSQL 18 with Docker on macOS | ✅ |
+| [2026-04-10](sessions/2026-04-10.md) | Automated Management Scripts for PostgreSQL Environment | ✅ |
+| [2026-04-11](sessions/2026-04-11.md) | DBeaver Community: Installation and Connection to PostgreSQL | ✅ |
 
 See full history in [PROGRESS.md](PROGRESS.md)
 

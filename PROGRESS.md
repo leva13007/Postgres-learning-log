@@ -8,6 +8,8 @@
 |------|-------|--------|---------|
 | 2026-04-05 | Project Setup & Documentation Foundation | ✅ Completed | [2026-04-05](sessions/2026-04-05.md) |
 | 2026-04-06 | Installing PostgreSQL 18 with Docker on macOS | ✅ Completed | [2026-04-06](sessions/2026-04-06.md) |
+| 2026-04-10 | Automated Management Scripts for PostgreSQL Environment | ✅ Completed | [2026-04-10](sessions/2026-04-10.md) |
+| 2026-04-11 | DBeaver Community: Installation and Connection to PostgreSQL | ✅ Completed | [2026-04-11](sessions/2026-04-11.md) |
 
 ### Status Legend
 

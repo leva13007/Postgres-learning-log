@@ -21,8 +21,7 @@
 - ✅ Installation — Docker on macOS, docker-compose setup, PostgreSQL 18 container → [session 2](sessions/2026-04-06.md)
 - ✅ Setup scripts — setup.sh, stop.sh, reset.sh (automated environment management) → [session 3](sessions/2026-04-10.md)
 - ✅ GUI client — DBeaver installation & connection setup
-- ⬜ Architectural fundamentals — client/server model, how PostgreSQL works
-- ⬜ Creating a database — via docker exec, via psql, via DBeaver
+- ✅ Creating a database — via docker exec, via psql, via DBeaver
 - ⬜ Accessing a database — psql basics, DBeaver query console, connection strings
 
 ## Phase 2: Table Design & Constraints
@@ -38,3 +37,6 @@
 ## Phase 7: Administration & Security
 
 ## Phase 8: Advanced Topics
+
+## Todo:
+- ⬜ Architectural fundamentals — client/server model, how PostgreSQL works

@@ -1,18 +1,28 @@
 # Queries
 
-Organized library of useful SQL queries by category.
+Library of SQL scripts from learning sessions and reference queries.
+
+## Structure
+
+Flat for now — all `.sql` files at the root of `queries/`. Will group into subfolders when the number grows.
 
 ## Naming Convention
 
-`<category>.md` — e.g. `aggregation.md`, `window-functions.md`, `cte.md`, `admin.md`
+`<topic-slug>.sql` — kebab-case, descriptive. Examples:
+- `create_drop-users-table.sql`
+- `insert-rows.sql`
+- `select-basic.sql`
 
-## Suggested Categories
+## Script Header Format
 
-- Data retrieval patterns
-- Aggregation and grouping
-- Window functions
-- CTEs and recursive queries
-- Admin and maintenance queries
-- Performance diagnostics
+Every script starts with a comment block:
+```sql
+-- Session: sessions/<date>.md
+-- Topic: <session topic>
+```
 
-Use [query-template](../templates/query-template.md) to create new entries.
+## Learning Scripts
+
+| File | Topic | Session |
+|------|-------|---------|
+| [create_drop-users-table.sql](create_drop-users-table.sql) | CREATE TABLE — users | [2026-04-17](../sessions/2026-04-17.md) |
